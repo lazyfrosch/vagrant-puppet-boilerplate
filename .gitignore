@@ -1,0 +1,12 @@
+## Ruby
+/Gemfile.lock
+/vendor
+
+## Vagrant
+/.vagrant/
+/vagrant/modules
+
+## editors
+[._]*.s[a-w][a-z]
+/.idea/
+*~
